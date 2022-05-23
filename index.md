@@ -1,6 +1,6 @@
 Cette page répertorie les meubles et autres articles que nous aimerions vendre en raison d'un déménagement, avec une description, le prix qu'on propose et des photos. Tous les articles sont en excellent état. 
 
-Pour plus d'informations vous pouvez nous contacter au numéro **07 81 53 40 67** ou à l'addresse email lanfon.22.lf@gmail.com
+Pour plus d'informations vous pouvez nous contacter au numéro **07 81 53 40 67** ou à l'addresse email [lanfon.22.lf@gmail.com](mailto:lanfon.22.lf@gmail.com)
 
 # Meubles
 

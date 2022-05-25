@@ -118,7 +118,7 @@ Pour plus d'informations vous pouvez nous contacter au numéro **07 81 53 40 67*
 - Prix : 70 €
 - Disponible : 29 ou 30 juin
 
-<img alt="Aspirapolvere2" title="Aspirapolvere2" src="https://lanfon22.github.io/SiteSellOptim/Foto/Aspirapolvere2.jpg" width="240"> 
+<img alt="Aspirapolvere4" title="Aspirapolvere4" src="https://lanfon22.github.io/SiteSellOptim/Foto/Aspirapolvere4.jpg" width="426"> 
 
 # Autres objects
 

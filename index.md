@@ -106,14 +106,6 @@ Pour plus d'informations vous pouvez nous contacter au numéro **07 81 53 40 67*
 
 # Autres objects
 
-## Tableau blanc
-
-- Description : Tableau blanc avec 6 marqueurs noirs nouveaux + 8 marqueurs colorés en bon état + 4 effaceurs nouveaux
-- Dimension : 110cm x 75cm (120cm x 170cm avec structure)
-- Prix : 90 €
-
-<img alt="Lavagna5" title="Lavagna5" src="https://lanfon22.github.io/SiteSellOptim/Foto/Lavagna5.jpg" width="240"> &nbsp;<img alt="Lavagna3" title="Lavagna3" src="https://lanfon22.github.io/SiteSellOptim/Foto/Lavagna3.jpg" width="300"> &nbsp; <img alt="Lavagna1" title="Lavagna1" src="https://lanfon22.github.io/SiteSellOptim/Foto/Lavagna1.jpg" width="240">
-
 ## Chaise bureau noire
 
 - Prix : 40 €
@@ -134,7 +126,7 @@ Pour plus d'informations vous pouvez nous contacter au numéro **07 81 53 40 67*
 
 ## Boîte à outils + perceuse
 
-- Prix : 50 €
+- Prix : 70 €
 
 <img alt="Attrezzi1" title="Attrezzi1" src="https://lanfon22.github.io/SiteSellOptim/Foto/Attrezzi1.jpg" width="300"> &nbsp; <img alt="Attrezzi2" title="Attrezzi2" src="https://lanfon22.github.io/SiteSellOptim/Foto/Attrezzi2.jpg" width="300"> 
 
@@ -194,7 +186,7 @@ Pour plus d'informations vous pouvez nous contacter au numéro **07 81 53 40 67*
 ## Fer à repasser
 
 - Description : Fer à repasser Philips + planche à repasser
-- Prix : 50 €
+- Prix : 60 €
 
 <img alt="Stiro3" title="Stiro3" src="https://lanfon22.github.io/SiteSellOptim/Foto/Stiro3.jpg" width="240"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img alt="Stiro4" title="Stiro4" src="https://lanfon22.github.io/SiteSellOptim/Foto/Stiro4.jpg" width="426">
 
@@ -215,5 +207,6 @@ Pour plus d'informations vous pouvez nous contacter au numéro **07 81 53 40 67*
 ## Mutiprises
 
 - Description : 2 multiprises avec 8 prise et 4 ports USB, et avec 5 prises et 2 ports USB
+- Prix : 20 €
 
 <img alt="Prolunghe" title="Prolunghe" src="https://lanfon22.github.io/SiteSellOptim/Foto/Prolunghe.jpg" width="426"> 

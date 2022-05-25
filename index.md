@@ -104,6 +104,22 @@ Pour plus d'informations vous pouvez nous contacter au numéro **07 81 53 40 67*
 
 <img alt="Frigo1" title="Frigo1" src="https://lanfon22.github.io/SiteSellOptim/Foto/Frigo1.jpg" width="240"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img alt="Frigo3" title="Frigo3" src="https://lanfon22.github.io/SiteSellOptim/Foto/Frigo3.jpg" width="240"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img alt="Frigo2" title="Frigo2" src="https://lanfon22.github.io/SiteSellOptim/Foto/Frigo2.jpg" width="240">
 
+## Micro-onde
+
+- Dimension : 48cm x 34cm x 29cm
+- Prix : 40 €
+- Disponible : 29 ou 30 juin
+
+<img alt="Microonde1" title="Microonde1" src="https://lanfon22.github.io/SiteSellOptim/Foto/Microonde1.jpg" width="426"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img alt="Microonde2" title="Microonde2" src="https://lanfon22.github.io/SiteSellOptim/Foto/Microonde2.jpg" width="426">
+
+## Aspirateur Samsung
+
+- Modèle : Samsung SC07K41H0VB
+- Prix : 70 €
+- Disponible : 29 ou 30 juin
+
+<img alt="Aspirapolvere2" title="Aspirapolvere2" src="https://lanfon22.github.io/SiteSellOptim/Foto/Aspirapolvere2.jpg" width="240"> 
+
 # Autres objects
 
 ## Chaise bureau noire
@@ -179,6 +195,7 @@ Pour plus d'informations vous pouvez nous contacter au numéro **07 81 53 40 67*
 ## Étendoir à linge
 
 - Prix : 20 € + 15 €
+- Disponible: à partir du 6 juin
 
 <img alt="Stendino_grande1" title="Stendino_grande1" src="https://lanfon22.github.io/SiteSellOptim/Foto/Stendino_grande1.jpg" width="240"> &nbsp;&nbsp;&nbsp; <img alt="Stendino_grande2" title="Stendino_grande2" src="https://lanfon22.github.io/SiteSellOptim/Foto/Stendino_grande2.jpg" width="425"> 
 <img alt="Stendino_piccolo1" title="Stendino_piccolo1" src="https://lanfon22.github.io/SiteSellOptim/Foto/Stendino_piccolo1.jpg" width="240"> &nbsp;&nbsp;&nbsp; <img alt="Stendino_piccolo2" title="Stendino_piccolo2" src="https://lanfon22.github.io/SiteSellOptim/Foto/Stendino_piccolo2.jpg" width="426"> 

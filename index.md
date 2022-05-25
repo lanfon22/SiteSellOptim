@@ -134,20 +134,6 @@ Pour plus d'informations vous pouvez nous contacter au numéro **07 81 53 40 67*
 
 <img alt="Sedia_grigia1" title="Sedia_grigia1" src="https://lanfon22.github.io/SiteSellOptim/Foto/Sedia_grigia1.jpg" width="240"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img alt="Sedia_grigia2" title="Sedia_grigia2" src="https://lanfon22.github.io/SiteSellOptim/Foto/Sedia_grigia2.jpg" width="240">
 
-## Chaise sans dossier
-
-- Prix : 15 €
-
-<img alt="Sedia_no_schienale1" title="Sedia_no_schienale1" src="https://lanfon22.github.io/SiteSellOptim/Foto/Sedia_no_schienale1.jpg" width="240"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img alt="Sedia_no_schienale2" title="Sedia_no_schienale2" src="https://lanfon22.github.io/SiteSellOptim/Foto/Sedia_no_schienale2.jpg" width="240">
-
-## Boîte à outils + perceuse
-
-- Prix : 70 €
-
-<img alt="Attrezzi1" title="Attrezzi1" src="https://lanfon22.github.io/SiteSellOptim/Foto/Attrezzi1.jpg" width="300"> &nbsp; <img alt="Attrezzi2" title="Attrezzi2" src="https://lanfon22.github.io/SiteSellOptim/Foto/Attrezzi2.jpg" width="300"> 
-
-<img alt="Attrezzi4" title="Attrezzi4" src="https://lanfon22.github.io/SiteSellOptim/Foto/Attrezzi4.jpg" width="300"> &nbsp; <img alt="Attrezzi7" title="Attrezzi7" src="https://lanfon22.github.io/SiteSellOptim/Foto/Attrezzi7.jpg" width="300"> 
-
 ## Haltères
 
 - Description : 2 haltères de 3 kg + 2 haltères de 5 kg

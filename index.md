@@ -143,6 +143,22 @@ Pour plus d'informations vous pouvez nous contacter au numéro **07 81 53 40 67*
 
 <img alt="Yoga_viola1" title="Yoga_viola1" src="https://lanfon22.github.io/SiteSellOptim/Foto/Yoga_viola1.jpg" width="240"> &nbsp;&nbsp;&nbsp; <img alt="Yoga_viola3" title="Yoga_viola3" src="https://lanfon22.github.io/SiteSellOptim/Foto/Yoga_viola3.jpg" width="240"> 
 
+## Sac à main
+
+- Sac à main bleu clair neuf
+- Dimension : 42cm x 15cm x 28cm
+- Prix : 10 €
+- 
+<img alt="Borsa3" title="Borsa3" src="https://lanfon22.github.io/SiteSellOptim/Foto/Borsa3.jpg" width="426"> &nbsp;&nbsp;&nbsp; <img alt="Borsa2" title="Borsa2" src="https://lanfon22.github.io/SiteSellOptim/Foto/Borsa2.jpg" width="426"> 
+
+## Sandales compensées beige
+
+- Taille : 38
+- Description : Peu utilisé
+- Prix : 25 €
+
+<img alt="Sandali1" title="Sandali1" src="https://lanfon22.github.io/SiteSellOptim/Foto/Sandali1.jpg" width="240"> &nbsp; <img alt="Sandali2" title="Sandali2" src="https://lanfon22.github.io/SiteSellOptim/Foto/Sandali2.jpg" width="240"> &nbsp; <img alt="Sandali3" title="Sandali3" src="https://lanfon22.github.io/SiteSellOptim/Foto/Sandali3.jpg" width="426"> 
+
 ## Pouf
 
 - Dimension : 34cm x 34cm x 35cm

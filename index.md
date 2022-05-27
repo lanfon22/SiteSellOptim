@@ -11,13 +11,6 @@ Pour plus d'informations vous pouvez nous contacter au numéro **07 81 53 40 67*
 
 <img alt="Tavolo1" title="Tavolo1" src="https://lanfon22.github.io/SiteSellOptim/Foto/Tavolo1.jpg" width="426"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img alt="Tavolo2" title="Tavolo2" src="https://lanfon22.github.io/SiteSellOptim/Foto/Tavolo2.jpg" width="240">
 
-## Bureau noir
-
-- Dimension : 122cm x 55cm x 74cm
-- Prix : 30 €
-
-<img alt="Scrivania_nera1" title="Scrivania_nera1" src="https://lanfon22.github.io/SiteSellOptim/Foto/Scrivania_nera1.jpg" width="426"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img alt="Scrivania_nera2" title="Scrivania_nera2" src="https://lanfon22.github.io/SiteSellOptim/Foto/Scrivania_nera2.jpg" width="240">
-
 ## Bureau beige
 
 - Dimension côté long (sans partie à angle) : 99cm x 49cm

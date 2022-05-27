@@ -129,10 +129,10 @@ Pour plus d'informations vous pouvez nous contacter au numéro **07 81 53 40 67*
 
 ## Haltères
 
-- Description : 2 haltères de 3 kg + 2 haltères de 5 kg
-- Prix : 30 €
+- Description : 2 haltères de 3 kg
+- Prix : 15 €
 
-<img alt="Pesi2" title="Pesi2" src="https://lanfon22.github.io/SiteSellOptim/Foto/Pesi2.jpg" width="426"> 
+<img alt="Pesi4" title="Pesi4" src="https://lanfon22.github.io/SiteSellOptim/Foto/Pesi4.jpg" width="426"> 
 
 ## Tapis de sport
 

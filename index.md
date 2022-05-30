@@ -58,14 +58,6 @@ Pour plus d'informations vous pouvez nous contacter au numéro **07 81 53 40 67*
 
 # Électroménager
 
-## Télé
-
-- Modèle : LG 49UJ63
-- Dimension : 49 pouces
-- Prix : 300 €
-
-<img alt="TV1" title="TV1" src="https://lanfon22.github.io/SiteSellOptim/Foto/TV1.jpg" width="426"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img alt="TV2" title="TV2" src="https://lanfon22.github.io/SiteSellOptim/Foto/TV2.jpg" width="240">
-
 ## Écran 
 
 - Description : Écran ViewSonic avec support pour bureau

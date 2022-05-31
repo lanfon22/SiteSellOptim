@@ -107,12 +107,6 @@ Pour plus d'informations vous pouvez nous contacter au numéro **07 81 53 40 67*
 
 # Autres objects
 
-## Chaise bureau noire
-
-- Prix : 40 €
-
-<img alt="Sedia_nera1" title="Sedia_nera1" src="https://lanfon22.github.io/SiteSellOptim/Foto/Sedia_nera1.jpg" width="240"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img alt="Sedia_nera2" title="Sedia_nera2" src="https://lanfon22.github.io/SiteSellOptim/Foto/Sedia_nera2.jpg" width="240">
-
 ## Chaise bureau grise
 
 - Prix : 35 €
@@ -157,13 +151,6 @@ Pour plus d'informations vous pouvez nous contacter au numéro **07 81 53 40 67*
 - Prix : 15 €
 
 <img alt="Puff1" title="Puff1" src="https://lanfon22.github.io/SiteSellOptim/Foto/Puff1.jpg" width="240"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img alt="Puff2" title="Puff2" src="https://lanfon22.github.io/SiteSellOptim/Foto/Puff2.jpg" width="240">
-
-## Petite table en verre
-
-- Dimension : 39cm x 39cm x 47cm
-- Prix : 20 €
-
-<img alt="Tavolino1" title="Tavolino1" src="https://lanfon22.github.io/SiteSellOptim/Foto/Tavolino1.jpg" width="240"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img alt="Tavolino2" title="Tavolino2" src="https://lanfon22.github.io/SiteSellOptim/Foto/Tavolino2.jpg" width="240">
 
 ## Panier à linge en plastique
 

@@ -30,16 +30,6 @@ Pour plus d'informations vous pouvez nous contacter au numéro **07 81 53 40 67*
 
 <img alt="Mobile_no_sportelli" title="Mobile_no_sportelli" src="https://lanfon22.github.io/SiteSellOptim/Foto/Mobile_no_sportelli.jpg" width="181"> &nbsp; <img alt="Mobile_TV1" title="Mobile_TV1" src="https://lanfon22.github.io/SiteSellOptim/Foto/Mobile_TV1.jpg" width="300"> &nbsp; <img alt="Mobile_sportelli1" title="Mobile_sportelli1" src="https://lanfon22.github.io/SiteSellOptim/Foto/Mobile_sportelli1.jpg" width="240">
 
-## Meubles BILLY IKEA
-
-- Description modèles : BILLY NNN bibl
-- Dimension : 80cm x 28cm x 202cm (1er/2ème photo) et 40cm x 28cm x 202cm (3ème/4ème photo)
-- Prix : 50 € (gauche) + 30 € (droite) (65 € si achetés ensemble)
-
-<img alt="Billy_grande1" title="Billy_grande1" src="https://lanfon22.github.io/SiteSellOptim/Foto/Billy_grande1.jpg" width="240"> &nbsp;&nbsp;&nbsp; <img alt="Billy_grande2" title="Billy_grande2" src="https://lanfon22.github.io/SiteSellOptim/Foto/Billy_grande2.jpg" width="240"> 
-
-<img alt="Billy_piccolo1" title="Billy_piccolo1" src="https://lanfon22.github.io/SiteSellOptim/Foto/Billy_piccolo1.jpg" width="240"> &nbsp;&nbsp;&nbsp; <img alt="Billy_piccolo3" title="Billy_piccolo3" src="https://lanfon22.github.io/SiteSellOptim/Foto/Billy_piccolo3.jpg" width="240"> 
-
 ## Meuble cuisine IKEA
 
 - Description modèle : Meuble avec 1 tiroir et 2 portes

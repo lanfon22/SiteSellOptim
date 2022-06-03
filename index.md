@@ -48,14 +48,6 @@ Pour plus d'informations vous pouvez nous contacter au numéro **07 81 53 40 67*
 
 # Électroménager
 
-## Écran 
-
-- Description : Écran ViewSonic avec support pour bureau
-- Dimension : 23 pouces
-- Prix: 50 €
-
-<img alt="Schermo1" title="Schermo1" src="https://lanfon22.github.io/SiteSellOptim/Foto/Schermo1.jpg" width="426"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img alt="Schermo" title="Schermo" src="https://lanfon22.github.io/SiteSellOptim/Foto/Schermo.jpg" width="240">
-
 ## Four avec plaques à induction
 
 - Description : Four avec 3 plaques à induction et alarme + plaques de cuisson pour four + grille de cuisson pour four
@@ -87,14 +79,6 @@ Pour plus d'informations vous pouvez nous contacter au numéro **07 81 53 40 67*
 
 <img alt="Microonde1" title="Microonde1" src="https://lanfon22.github.io/SiteSellOptim/Foto/Microonde1.jpg" width="426"> &nbsp;&nbsp; <img alt="Microonde2" title="Microonde2" src="https://lanfon22.github.io/SiteSellOptim/Foto/Microonde2.jpg" width="426">
 
-## Aspirateur Samsung
-
-- Modèle : Samsung SC07K41H0VB
-- Prix : 70 €
-- Disponible : 29 ou 30 juin
-
-<img alt="Aspirapolvere4" title="Aspirapolvere4" src="https://lanfon22.github.io/SiteSellOptim/Foto/Aspirapolvere4.jpg" width="426"> 
-
 # Autres objects
 
 ## Chaise bureau grise
@@ -113,11 +97,9 @@ Pour plus d'informations vous pouvez nous contacter au numéro **07 81 53 40 67*
 ## Tapis de sport
 
 - Dimensions : 173cm x 61cm x 8mm (tapis vert) et 180cm x 60cm x 6mm (tapis violet)
-- Prix : 15 € + 10 €
+- Prix : 15 €
 
 <img alt="Yoga_verde1" title="Yoga_verde1" src="https://lanfon22.github.io/SiteSellOptim/Foto/Yoga_verde1.jpg" width="240"> &nbsp;&nbsp;&nbsp; <img alt="Yoga_verde3" title="Yoga_verde3" src="https://lanfon22.github.io/SiteSellOptim/Foto/Yoga_verde3.jpg" width="240"> 
-
-<img alt="Yoga_viola1" title="Yoga_viola1" src="https://lanfon22.github.io/SiteSellOptim/Foto/Yoga_viola1.jpg" width="240"> &nbsp;&nbsp;&nbsp; <img alt="Yoga_viola3" title="Yoga_viola3" src="https://lanfon22.github.io/SiteSellOptim/Foto/Yoga_viola3.jpg" width="240"> 
 
 ## Sac à main
 
@@ -134,13 +116,6 @@ Pour plus d'informations vous pouvez nous contacter au numéro **07 81 53 40 67*
 - Prix : 25 €
 
 <img alt="Sandali1" title="Sandali1" src="https://lanfon22.github.io/SiteSellOptim/Foto/Sandali1.jpg" width="240"> &nbsp; <img alt="Sandali2" title="Sandali2" src="https://lanfon22.github.io/SiteSellOptim/Foto/Sandali2.jpg" width="240"> &nbsp; <img alt="Sandali3" title="Sandali3" src="https://lanfon22.github.io/SiteSellOptim/Foto/Sandali3.jpg" width="426"> 
-
-## Pouf
-
-- Dimension : 34cm x 34cm x 35cm
-- Prix : 15 €
-
-<img alt="Puff1" title="Puff1" src="https://lanfon22.github.io/SiteSellOptim/Foto/Puff1.jpg" width="240"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img alt="Puff2" title="Puff2" src="https://lanfon22.github.io/SiteSellOptim/Foto/Puff2.jpg" width="240">
 
 ## Panier à linge en plastique
 
@@ -171,12 +146,6 @@ Pour plus d'informations vous pouvez nous contacter au numéro **07 81 53 40 67*
 
 <img alt="Stiro3" title="Stiro3" src="https://lanfon22.github.io/SiteSellOptim/Foto/Stiro3.jpg" width="240"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img alt="Stiro4" title="Stiro4" src="https://lanfon22.github.io/SiteSellOptim/Foto/Stiro4.jpg" width="426">
 
-## Radiateur électrique
-
-- Prix : 10 €
-
-<img alt="Stufetta2" title="Stufetta2" src="https://lanfon22.github.io/SiteSellOptim/Foto/Stufetta2.jpg" width="426">
-
 ## Commodes en plastique
 
 - Description : Commodes en plastique avec 8 (1er et 2ème photo) et 4 tiroirs (3ème photo)
@@ -184,10 +153,3 @@ Pour plus d'informations vous pouvez nous contacter au numéro **07 81 53 40 67*
 - Prix : 10 € + 10 € + 8 €
 
 <img alt="Cassettiera1_1" title="Cassettiera1_1" src="https://lanfon22.github.io/SiteSellOptim/Foto/Cassettiera1_1.jpg" width="240"> &nbsp; <img alt="Cassettiera2_1" title="Cassettiera2_1" src="https://lanfon22.github.io/SiteSellOptim/Foto/Cassettiera2_1.jpg" width="240"> &nbsp; <img alt="Cassettiera_piccola2" title="Cassettiera_piccola2" src="https://lanfon22.github.io/SiteSellOptim/Foto/Cassettiera_piccola2.jpg" width="426">
-
-## Mutiprises
-
-- Description : 2 multiprises avec 8 prise et 4 ports USB, et avec 5 prises et 2 ports USB
-- Prix : 20 €
-
-<img alt="Prolunghe" title="Prolunghe" src="https://lanfon22.github.io/SiteSellOptim/Foto/Prolunghe.jpg" width="426"> 

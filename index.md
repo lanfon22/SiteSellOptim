@@ -38,14 +38,6 @@ Pour plus d'informations vous pouvez nous contacter au numéro **07 81 53 40 67*
 
 <img alt="Mobile_cucina1" title="Mobile_cucina1" src="https://lanfon22.github.io/SiteSellOptim/Foto/Mobile_cucina1.jpg" width="240"> &nbsp; <img alt="Mobile_cucina2" title="Mobile_cucina2" src="https://lanfon22.github.io/SiteSellOptim/Foto/Mobile_cucina2.jpg" width="240"> &nbsp; <img alt="Mobile_cucina3" title="Mobile_cucina3" src="https://lanfon22.github.io/SiteSellOptim/Foto/Mobile_cucina3.jpg" width="426">
 
-## Armoire
-
-- Description modèle : 2 compartiments avec 2 portes + 5 tablette de séparation (2 fixes et 3 modifiables)
-- Dimension : 102cm x 58cm x 186cm
-- Prix : 80 €
-
-<img alt="Armadio1" title="Armadio1" src="https://lanfon22.github.io/SiteSellOptim/Foto/Armadio1.jpg" width="240"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img alt="Armadio2" title="Armadio2" src="https://lanfon22.github.io/SiteSellOptim/Foto/Armadio2.jpg" width="240">
-
 # Électroménager
 
 ## Four avec plaques à induction

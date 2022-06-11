@@ -83,42 +83,12 @@ Pour plus d'informations vous pouvez nous contacter au numéro **07 81 53 40 67*
 - 
 <img alt="Borsa3" title="Borsa3" src="https://lanfon22.github.io/SiteSellOptim/Foto/Borsa3.jpg" width="426"> &nbsp;&nbsp;&nbsp; <img alt="Borsa2" title="Borsa2" src="https://lanfon22.github.io/SiteSellOptim/Foto/Borsa2.jpg" width="426"> 
 
-## Sandales compensées beige
-
-- Taille : 38
-- Description : Peu utilisé
-- Prix : 25 €
-
-<img alt="Sandali1" title="Sandali1" src="https://lanfon22.github.io/SiteSellOptim/Foto/Sandali1.jpg" width="240"> &nbsp; <img alt="Sandali2" title="Sandali2" src="https://lanfon22.github.io/SiteSellOptim/Foto/Sandali2.jpg" width="240"> &nbsp; <img alt="Sandali3" title="Sandali3" src="https://lanfon22.github.io/SiteSellOptim/Foto/Sandali3.jpg" width="426"> 
-
 ## Panier à linge en plastique
 
 - Dimension : 45cm x 35cm 63cm
 - Prix : 5 €
 
 <img alt="Cesto1" title="Cesto1" src="https://lanfon22.github.io/SiteSellOptim/Foto/Cesto1.jpg" width="240"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img alt="Cesto3" title="Cesto3" src="https://lanfon22.github.io/SiteSellOptim/Foto/Cesto3.jpg" width="240">
-
-## Verres
-
-- Description : set de 12 verres (6 utilisés et en excellent état + 6 nouveaux emballés)
-- Prix : 10 €
-
-<img alt="Bicchieri1" title="Bicchieri1" src="https://lanfon22.github.io/SiteSellOptim/Foto/Bicchieri1.jpg" width="426"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img alt="Bicchieri3" title="Bicchieri3" src="https://lanfon22.github.io/SiteSellOptim/Foto/Bicchieri3.jpg" width="240">
-
-## Fer à repasser
-
-- Description : Fer à repasser Philips + planche à repasser
-- Prix : 60 €
-
-<img alt="Stiro3" title="Stiro3" src="https://lanfon22.github.io/SiteSellOptim/Foto/Stiro3.jpg" width="240"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img alt="Stiro4" title="Stiro4" src="https://lanfon22.github.io/SiteSellOptim/Foto/Stiro4.jpg" width="426">
-
-## Commodes en plastique
-
-- Description : Commodes en plastique avec 8 (1er et 2ème photo) et 4 tiroirs (3ème photo)
-- Dimension : 26cm x 35cm x 65cm (1er et 2ème photo) et 26cm x 35cm x 65cm (3ème photo)
-- Prix : 10 € + 10 € + 8 €
-
-<img alt="Cassettiera1_1" title="Cassettiera1_1" src="https://lanfon22.github.io/SiteSellOptim/Foto/Cassettiera1_1.jpg" width="240"> &nbsp; <img alt="Cassettiera2_1" title="Cassettiera2_1" src="https://lanfon22.github.io/SiteSellOptim/Foto/Cassettiera2_1.jpg" width="240"> &nbsp; <img alt="Cassettiera_piccola2" title="Cassettiera_piccola2" src="https://lanfon22.github.io/SiteSellOptim/Foto/Cassettiera_piccola2.jpg" width="426">
 
 ## Étendoir à linge - RÉSERVÉ
 

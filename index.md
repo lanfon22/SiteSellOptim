@@ -26,7 +26,7 @@ Pour plus d'informations vous pouvez nous contacter au numéro **07 81 53 40 67*
 
 - Description : Four avec 3 plaques à induction et alarme + plaques de cuisson pour four + grille de cuisson pour four
 - Dimension : 49cm x 63cm x 85cm
-- Prix : 200 €
+- Prix : 150 €
 
 
 <img alt="Forno1" title="Forno1" src="https://lanfon22.github.io/SiteSellOptim/Foto/Forno1.jpg" width="240"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img alt="Forno2" title="Forno2" src="https://lanfon22.github.io/SiteSellOptim/Foto/Forno2.jpg" width="240"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img alt="Forno3" title="Forno3" src="https://lanfon22.github.io/SiteSellOptim/Foto/Forno3.jpg" width="240">

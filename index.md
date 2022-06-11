@@ -13,24 +13,6 @@ Pour plus d'informations vous pouvez nous contacter au numéro **07 81 53 40 67*
 
 <img alt="Scrivania_beige1" title="Scrivania_beige1" src="https://lanfon22.github.io/SiteSellOptim/Foto/Scrivania_beige1.jpg" width="426"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img alt="Scrivania_beige2" title="Scrivania_beige2" src="https://lanfon22.github.io/SiteSellOptim/Foto/Scrivania_beige2.jpg" width="240">
 
-## Meubles séjour IKEA
-
-- Description modèle structure principale 1er et 3ème meuble : BESTÅ str effet chêne blanchi + 5 tablettes de séparation BESTÅ tbl effet chêne blanchi modifiables
-- Dimension 1er et 3ème meuble : 60cm x 40cm x 192cm
-- Modèle structure principale 2ème meuble : BESTÅ banc tv effet chêne blanchi + 2 porte vitré GLASSVIK pte vitr blanc/verre givré + 2 tiroirs
-- Dimension 2ème meuble : 120cm x 40cm x 74cm
-- Prix : 40 € + 50 € + 40 € (100 € si achetés ensemble)
-
-<img alt="Mobile_no_sportelli" title="Mobile_no_sportelli" src="https://lanfon22.github.io/SiteSellOptim/Foto/Mobile_no_sportelli.jpg" width="181"> &nbsp; <img alt="Mobile_TV1" title="Mobile_TV1" src="https://lanfon22.github.io/SiteSellOptim/Foto/Mobile_TV1.jpg" width="300"> &nbsp; <img alt="Mobile_sportelli1" title="Mobile_sportelli1" src="https://lanfon22.github.io/SiteSellOptim/Foto/Mobile_sportelli1.jpg" width="240">
-
-## Meuble cuisine IKEA
-
-- Description modèle : Meuble avec 1 tiroir et 2 portes
-- Dimension : 80cm x 70cm x 84cm
-- Prix : 50 €
-
-<img alt="Mobile_cucina1" title="Mobile_cucina1" src="https://lanfon22.github.io/SiteSellOptim/Foto/Mobile_cucina1.jpg" width="240"> &nbsp; <img alt="Mobile_cucina2" title="Mobile_cucina2" src="https://lanfon22.github.io/SiteSellOptim/Foto/Mobile_cucina2.jpg" width="240"> &nbsp; <img alt="Mobile_cucina3" title="Mobile_cucina3" src="https://lanfon22.github.io/SiteSellOptim/Foto/Mobile_cucina3.jpg" width="426">
-
 ## Table avec 4 chaises -  RÉSERVÉ
 
 - Dimension de la table : 140cm x 78cm x 74cm

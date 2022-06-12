@@ -13,13 +13,6 @@ Pour plus d'informations vous pouvez nous contacter au numéro **07 81 53 40 67*
 
 <img alt="Scrivania_beige1" title="Scrivania_beige1" src="https://lanfon22.github.io/SiteSellOptim/Foto/Scrivania_beige1.jpg" width="426"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img alt="Scrivania_beige2" title="Scrivania_beige2" src="https://lanfon22.github.io/SiteSellOptim/Foto/Scrivania_beige2.jpg" width="240">
 
-## Table avec 4 chaises -  RÉSERVÉ
-
-- Dimension de la table : 140cm x 78cm x 74cm
-- Prix : 90 €
-
-<img alt="Tavolo1" title="Tavolo1" src="https://lanfon22.github.io/SiteSellOptim/Foto/Tavolo1.jpg" width="426"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img alt="Tavolo2" title="Tavolo2" src="https://lanfon22.github.io/SiteSellOptim/Foto/Tavolo2.jpg" width="240">
-
 # Électroménager
 
 ## Four avec plaques à induction
